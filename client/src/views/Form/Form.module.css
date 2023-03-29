@@ -1,0 +1,79 @@
+
+
+.container{
+    background-image: url("../../imgs/nasa-Q1p7bh3SHj8-unsplash.jpg");
+    color: aliceblue;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+
+
+
+p {
+    color: red;
+    font-size: 18px;
+}
+
+.button {
+    margin-top: 30px;
+    background-color: #868686;
+    color: #ffffff;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 0.9rem;
+    margin-bottom: 5px;
+    width: 25vw;
+}
+
+.button:hover {
+    background-color: #85ad86;
+    color: white;
+}
+
+.buttoncreate {
+    margin-top: 30px;
+        background-color: #b2bb0f;
+        color: #ffffff;
+        border-radius: 10px;
+        border: none;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 0.9rem;
+        margin-bottom: 5px;
+        width: 25vw;
+        color: black;
+
+}
+
+.buttoncreate:hover {
+    background-color:  #d8ea10;
+}
+
+
+
+.buttonX {
+    background-color: #e5e5e5;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 18px;
+    color: #666;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.buttonX:hover {
+    background-color: #c4c4c4;
+}

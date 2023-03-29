@@ -1,0 +1,41 @@
+.container {
+    background-image: url("../../imgs/nasa-Q1p7bh3SHj8-unsplash.jpg");
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    background-size: cover;
+}
+
+.titulo{
+color: aliceblue;
+    margin-block-start: 0;
+}
+
+.refresh{
+    background-color: #eeeeee;
+        color: #140c0c;
+        border: none;
+        padding: 10px 20px;
+        font-size: 16px;
+        border-radius: 5px;
+        margin-bottom: 20px;
+}
+
+.refresh:hover{
+    cursor: pointer;
+}
+
+.selects{
+    margin-right: 5rem;
+}
+
+span{
+    color: aliceblue;
+}
+
+.footer{
+    background-color: #140c0c;
+    color: aliceblue;
+}
+
+
+
